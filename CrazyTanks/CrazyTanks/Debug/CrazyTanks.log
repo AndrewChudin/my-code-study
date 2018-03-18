@@ -1,0 +1,5 @@
+﻿  CrazyTanks.cpp
+c:\users\dom\documents\visual studio 2015\projects\crazytanks\crazytanks\rendering.hpp(66): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\dom\documents\visual studio 2015\projects\crazytanks\crazytanks\crazytanks.cpp(176): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CrazyTanks.vcxproj -> C:\Users\Dom\documents\visual studio 2015\Projects\CrazyTanks\Debug\CrazyTanks.exe
+  CrazyTanks.vcxproj -> C:\Users\Dom\documents\visual studio 2015\Projects\CrazyTanks\Debug\CrazyTanks.pdb (Full PDB)
